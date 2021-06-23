@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shivani Parihar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani-parihar99&label=Profile%20views&color=0e75b6&style=flat" alt="shivani-parihar99" /> </p>
 
@@ -13,6 +12,8 @@
 - 😄 Pronouns: **She/Her or whatever you want, I don't really mind.**
 
 - ⚡ Fun fact **Earth is not flat – but the Universe is.**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
