@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivaniparihar1502@gmail.com**
 
-- 😄 Pronouns: **She/Her or whatever you want, I don't really mind.**
+- 😄 Pronouns: **She/Her**
 
 - ⚡ Fun fact **Earth is not flat – but the Universe is.**
 
